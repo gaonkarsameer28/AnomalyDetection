@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalyDetection", "AnomalyDetection\AnomalyDetection.csproj", "{9CB6238B-1388-4113-A00D-EF01E768C923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{271C8115-F1CF-41F4-AFF1-C9A8603C6BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB6238B-1388-4113-A00D-EF01E768C923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB6238B-1388-4113-A00D-EF01E768C923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB6238B-1388-4113-A00D-EF01E768C923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB6238B-1388-4113-A00D-EF01E768C923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271C8115-F1CF-41F4-AFF1-C9A8603C6BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271C8115-F1CF-41F4-AFF1-C9A8603C6BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271C8115-F1CF-41F4-AFF1-C9A8603C6BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271C8115-F1CF-41F4-AFF1-C9A8603C6BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF6E46F8-B2C2-4F88-BA6D-25612A31B1BF}
+	EndGlobalSection
+EndGlobal
